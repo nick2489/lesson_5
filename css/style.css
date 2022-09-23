@@ -1,0 +1,146 @@
+@font-face {
+	font-family: "Decomart";
+	src: url("../fonts/DecomartFF4F.woff2") format("woff2"), url("../fonts/DecomartFF4F.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+body {
+	font-family: "Decomart";
+}
+
+.header {
+	font-family: 'Open Sans';
+	font-size: 30px;
+	font-weight: 700;
+	text-decoration: underline;
+	color: blue;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+
+.title {
+	font-family: 'Open Sans';
+	font-size: 40px;
+	color: #562B08;
+	text-shadow: 2px 2px 5px rgb(180, 107, 107);
+	font-weight: 700;
+	text-align: end;
+	text-transform: uppercase;
+	letter-spacing: 7px;
+	margin-bottom: 20px;
+}
+
+.harmful {
+	font-family: 'Open Sans';
+	color: #937DC2;
+	font-size: 20px;
+	text-transform: capitalize;
+	text-decoration: overline;
+	margin-bottom: 45px;
+}
+
+.coffee {
+	font-family: 'Open Sans';
+	font-size: 25px;
+	color: #FD841F;
+	margin: 30px 0px 30px 0px;	
+}
+
+.line {
+	text-decoration: line-through;
+}
+
+.legend {
+	width: 300px;
+	text-align: end;
+	color: #FA7070;
+	font-size: 25px;
+	word-spacing: 20px;
+}
+
+.shepherd {
+	font-family: 'Open Sans';
+	font-size: 20px;
+	padding-top: 10px;
+	color: #F2D388;
+	word-spacing: 15px;
+	margin: 20px 0px 20px 0px;
+	text-align: center;
+
+	
+}
+
+.monks {
+	background-color: #77608d;
+	font-size: 25px;
+	padding-bottom: 15px;
+	color: antiquewhite;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+.subtitle {
+	font-size: 35px;
+	font-weight: 600;
+	text-shadow: 4px 4px 6px #6F38C5;
+	text-decoration: underline;
+	color: #367E18;
+	margin-top: 20px;
+	margin-left: 20px;
+
+}
+
+.list {
+	color: #D61C4E;
+	text-transform: lowercase;
+	font-size: 20px;
+	line-height: 2.3;
+	letter-spacing: 5px;
+	margin-bottom: 20px;
+}
+
+.turks {
+	font-family: 'Open Sans';
+	color: #C55300;
+	font-size: 25px;
+	margin-top: 20px;
+}
+
+.europe {
+	background-color:#562B08;
+	font-size: 30px;
+	padding-bottom: 15px;
+	color: antiquewhite;
+	box-sizing: content-box;
+	text-align: center;
+	margin-top: 15px;
+}
+
+.italy {
+	font-weight: 700px;
+	color: #5d3e04;
+	font-size: 30px;
+	padding-left: 30px;
+	margin-left: 10px;
+	text-shadow: 6px 6px 8px #4a0215;
+}
+
+.more {
+	font-family: 'Open Sans';
+	color: #515a3f;
+	font-weight: 600px;
+	font-size: 25px;
+	margin-left: 15px;
+	margin-top: 25px;
+	margin-bottom: 15px;
+	text-decoration: underline;
+}
+
+.link {
+	font-weight: 700px;
+	color: #1664be;
+	font-size: 35px;
+}
