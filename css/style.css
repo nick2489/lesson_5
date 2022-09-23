@@ -27,7 +27,7 @@ body {
 	color: #562B08;
 	text-shadow: 2px 2px 5px rgb(180, 107, 107);
 	font-weight: 700;
-	text-align: end;
+	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: 7px;
 	margin-bottom: 20px;
@@ -121,7 +121,6 @@ body {
 
 .italy {
 	font-family: 'Open Sans';
-	font-weight: 700px;
 	color: #5d3e04;
 	font-size: 30px;
 	padding-left: 30px;
@@ -141,7 +140,14 @@ body {
 
 .link {
 	font-family: 'Open Sans';
-	font-weight: 700px;
 	color: #1664be;
 	font-size: 35px;
+}
+
+.up {
+	font-family: 'Open Sans';
+	font-size: 25px;
+	color: #367E18;
+	text-decoration-line: overline;
+	text-align: center;
 }
